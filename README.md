@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Makisuuuuu
+- 👋 Hi, I’m Max Padilla
 - 👀 I’m interested in Music and Programming
 - 🌱 I’m currently learning Java and HTML | CSS | JavaScript
 - 💞️ I’m open for any collaboration
