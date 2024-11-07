@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max Padilla
 - 👀 I’m interested in Music and Programming
-- 🌱 I’m currently learning Java and HTML | CSS | JavaScript
+- 🌱 I’m currently learning Mobile Programming | Android Studio | Java
 - 💞️ I’m open for any collaboration
 - 📫 How to reach me, email: padilla.maxyotico@gmail.com
 
